@@ -1,0 +1,70 @@
+/* styles*/
+.hicopy-wraper{text-align: center;}
+.hicopy-troublesh{text-align:left;}
+.hicopy-heading{text-align:center;}
+/* Option page*/
+.options-free-hicopy .form-table tr { background: none repeat scroll 0 0 #F9F9F9;border: 1px solid #E4E4E4; margin: 0;padding-left: 3px;  }
+.options-free-hicopy .form-table td p { color: #AAA; font-size: 10px;}
+.options-free-hicopy .form-table label { font-size: 12px;}
+.options-free-hicopy .form-table input {padding: 5px;resize: none;}
+.options-free-hicopy .form-table input[type="checkbox"]{ width: auto;}
+/*TABS*/
+.hicopy-tab{ background: #FFF; padding: 15px;height: auto;float: left;width: calc( 100% - 30px);}
+.options-free-hicopy .hicopy-container{  width: 100%;}
+.hicopy-container .nav-tab-active{ background: #fff; border-bottom: 1px solid #ffffff;}
+.options-free-hicopy .form-table th{ padding-left: 10px; width: 300px;position:relative;}
+.options-free-hicopy .submitbutton{margin-top:20px;}
+.hicopy-tab.active {  display: block;}
+.hicopy-tab { display: none;}
+.hicopy-demo-image{text-align: center;}
+#list-form-update{ width: auto; line-height: unset;}
+.loading-img-wrapper{ position: absolute; width: 94%;background: #a29090;text-align: center; display: none;}
+.connected{ background: #279B27!important; color: #fff!important; font-weight: bold; padding: 5px 20px; font-size: 18px; display: inline; display: none;}
+.disconnected{ background: #FF0000!important; color: #fff!important; font-weight: bold; padding: 5px 20px; font-size: 18px; display: inline; cursor: pointer; display: none;}
+
+.hicopy-logo{ float: left; padding: 10px;}
+strong.hicopy-blue { color: #3ac7f3;font-weight: bold; font-size: 40px;}
+strong.blue { color: #3ac7f3;font-weight: bold; font-size: 105%;}
+.top-links li a{ float:left;padding-right: 20px; color:#3ac7f3;text-decoration: none;font-weight: bold;font-size: 15px;}
+.hicopy-pro-button, .hicopy-pro-button:visited,.hicopy-pro-button:active{ background: #7F86CE !important;border-color: #7F86CE !important; color: #fff !important;text-decoration: none !important;text-shadow: none!important;box-shadow: none !important;padding: 5px 10px;border-radius: 30px;font-weight: bold;}
+.hicopy-pro-button:hover{background:#7F86CE !important; border-color: #7F86CE !important; color:black!important;}
+
+.hicopy-navbar-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-right:-1.4%;
+  margin-left:-1.4%;
+  margin-top:-1.5%;
+  margin-bottom: -0.75%;
+  height:5%;
+}
+
+.hicopy-options-list {
+  float: right;
+  margin-bottom:-5px!important;
+}
+
+.hicopy-options-list .hicopy-options-a {
+  display: block;
+  color: #7F86CE;
+  text-align: center;
+  padding: 11px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 1000;
+  padding-bottom:16px;
+}
+
+.hicopy-options-header .hicopy-options-a:hover {
+  background-color: #111;
+}
+.hicopy-logo
+  {
+    color: #7F86CE;
+  font-weight: bold; font-size: 25px;
+    margin-bottom: -2.8%;
+    margin-left:1%;
+  }
